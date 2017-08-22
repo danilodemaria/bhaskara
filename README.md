@@ -1,4 +1,4 @@
-# bhaskara
+# Bhaskara
 
 
 Algoritmos simples, criado em Java para calculo de equações do segundo grau. Informando ao usuário os dois valores que geram a anulação da equação.
